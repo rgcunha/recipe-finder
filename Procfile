@@ -1,0 +1,1 @@
+web: node -r dotenv/config -r source-map-support/register ./dist/index.js
